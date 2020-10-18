@@ -18,7 +18,7 @@ main {
   align-items: center;
   padding: 20px;
   flex-direction: column;
-  max-width: 320px;
+  max-width: 420px;
   margin: 0px auto;
 }
 
@@ -66,4 +66,22 @@ footer {
   font-weight: 500;
   padding-top: 10px;
   line-height: 1.4rem;
+}
+
+.resumen {
+  text-align: justify;
+  font-size: 20px;
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+
+.lista {
+  text-align: center;
+  font-size: 20px;
+  padding: 10px;
+  margin-bottom: 50px;
+}
+
+li {
+  padding: 5px;
 }
