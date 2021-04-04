@@ -1,4 +1,3 @@
 # Página oficial de Daniel Colmenares
-Mi página web
 
-Este cambio viene desde mi computadora
+Una sencilla página estática para practicar con CSS/SASS.
