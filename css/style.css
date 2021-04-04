@@ -96,4 +96,22 @@ footer .lista {
 footer li {
   padding: 5px;
 }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #322A26;
+  }
+  main h1 {
+    color: #D4AF37;
+  }
+  main h2 {
+    color: #E0DDCF;
+  }
+  main .divider {
+    background-color: #D4AF37;
+  }
+  main footer {
+    color: #E0DDCF;
+  }
+}
 /*# sourceMappingURL=style.css.map */

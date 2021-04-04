@@ -95,3 +95,27 @@ footer{
         padding: 5px;
     }
 }
+
+@media (prefers-color-scheme: dark){
+    body {
+        background-color: $black-coffee;
+    }
+
+    main {
+        h1 {
+            color: $gold
+        }
+
+        h2 {
+            color: $bone;
+        }
+
+        .divider {
+            background-color: $gold;
+        }
+
+        footer {
+            color: $bone
+        }
+    }
+}
